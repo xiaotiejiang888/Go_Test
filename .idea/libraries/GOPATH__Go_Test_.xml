@@ -2,6 +2,20 @@
   <library name="GOPATH &lt;Go_Test&gt;">
     <CLASSES>
       <root url="file://C:/GOPATH/src/github.com" />
+      <root url="file://C:/GOPATH/src/goExercise" />
+      <root url="file://C:/GOPATH/src/stathat.com" />
+      <root url="file://C:/GOPATH/src/push-gateway" />
+      <root url="file://C:/GOPATH/src/golang.org" />
+      <root url="file://C:/GOPATH/src/push-datahub" />
+      <root url="file://C:/GOPATH/src/push-connector" />
+      <root url="file://C:/GOPATH/src/push-admin" />
+      <root url="file://C:/GOPATH/src/push-statistics" />
+      <root url="file://C:/GOPATH/src/push-apns" />
+      <root url="file://C:/GOPATH/src/push-toolkit" />
+      <root url="file://C:/GOPATH/src/push-queue-proxy" />
+      <root url="file://C:/GOPATH/src/push-a3rdpns" />
+      <root url="file://C:/GOPATH/src/code.google.com" />
+      <root url="file://C:/GOPATH/src/gopkg.in" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
