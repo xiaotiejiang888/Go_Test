@@ -1,7 +1,12 @@
 <component name="libraryTable">
   <library name="GOPATH &lt;Go_Test&gt;">
     <CLASSES>
-      <root url="file://E:/GOPATH/src/github.com" />
+      <root url="file://C:/GOPATH/src/github.com" />
+      <root url="file://C:/GOPATH/src/goExercise" />
+      <root url="file://C:/GOPATH/src/stathat.com" />
+      <root url="file://C:/GOPATH/src/golang.org" />
+      <root url="file://C:/GOPATH/src/code.google.com" />
+      <root url="file://C:/GOPATH/src/gopkg.in" />
     </CLASSES>
     <JAVADOC />
     <SOURCES />
