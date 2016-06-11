@@ -6,7 +6,7 @@ import (
 	"strings"
 )
 func main() {
-	r := strings.NewReader("Hello,Reader!")
+	r := strings.NewReader("章茂瑜，你好吗。，我很爱你")
 	b := make([]byte, 8)
 	for  {
 		n, err := r.Read(b)
